@@ -1,0 +1,16 @@
+# Virtual environment
+qr_env/
+venv/
+ENV/
+env/
+
+# Python files and cache
+*.pyc
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
